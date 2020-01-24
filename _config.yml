@@ -36,3 +36,5 @@ pages_list:
   About: '/about'
   Archive: '/archive'
   Feed: '/index.html'
+
+theme: jekyll-theme-cayman
