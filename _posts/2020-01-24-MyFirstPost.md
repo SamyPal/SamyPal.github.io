@@ -1,6 +1,6 @@
 ---
 layout: post
-ttitle: My First Project in Data Science. Exploratory Data Analysis
+title: My First Project in Data Science. Exploratory Data Analysis
 ---
 
 ![width=4cm,height=6cm](/images/head_img.jpg)
