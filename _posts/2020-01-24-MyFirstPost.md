@@ -20,7 +20,7 @@ The objective of the project was to optimize placement of street teams, based on
 
 Assumptions
 --------------------
-It can be safely assumed that placing street teams on stations that are heavily trafficked stations will give us the best opportunity to collect the most signatures. On weekdays, commuter traffic at MTA's were considerably larger than the tourist commuters. Turnstile data for the periods between May 2019 and June 2019 is a good representation of the NYC resident commuters during summer, and will give us an idea of the number of residents that will be in the city during the summer. 
+It can be assumed that placing street teams on stations that are heavily trafficked stations will give us the best opportunity to collect the most signatures. On weekdays, commuter traffic at MTA's were considerably larger than the tourist commuters. Turnstile data for the periods between May 2019 and June 2019 is a good representation of the NYC resident commuters during summer, and will give us an idea of the number of residents that will be in the city during the summer. 
 
 Data
 ---------
